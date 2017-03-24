@@ -1,0 +1,1 @@
+[{"provider":"fused","time":1490368771000,"latitude":37.4219983,"longitude":-87.0658383,"accuracy":20,"altitude":0,"locationProvider":1}]
